@@ -1,3 +1,5 @@
+### [👉👉👉♥♥点此进入♥观看入口👈👈👈](http://a.d44k.cc/mfwz.html)
+<br></br><br></br><br></br>
 def save_plan(self, plan: Dict, filename: str = "spring_outing_plan.json") -> bool:
         """保存计划到文件"""
         try:
